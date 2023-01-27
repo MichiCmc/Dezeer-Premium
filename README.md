@@ -3,5 +3,6 @@
 # Lenguajes utilizados:
 ## •Html
 ## •Css
- # ![Resultado esperado][def https://raw.githubusercontent.com/MichiCmc/Dezeer-Premium/45c961eb62865f3f136d59b4fd0e6e86ce5fe56b/img/Dezeeryaterminado.PNG]
+## <image src="/img/Dezeeryaterminado.PNG"
+
 
